@@ -2,7 +2,13 @@ import { ScullyConfig } from '@scullyio/scully';
 
 export const config: ScullyConfig = {
   projectRoot: './src',
-  projectName: 'p1_myblog',
+  projectName: 'my-blog',
   outDir: './dist/static',
-  routes: {},
+  routes: {
+    '/posts/:id': {
+      type: 'contentFolder',
+      id: {
+        folder: "./mdfiles"
+      }
+    },},
 };
