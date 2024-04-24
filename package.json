@@ -8,7 +8,9 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "npx-cmd": "npx -p @angular/cli@16.2.13 ng",
-    "npx-start": "npx -p @angular/cli@16.2.13 ng serve"
+    "npx-start": "npx -p @angular/cli@16.2.13 ng serve",
+    "upd-scully-routes": "npx scully --project my-blog",
+    "start-scully": "npx -p @angular/cli@16.2.13 scully serve --project my-blog"
   },
   "private": true,
   "dependencies": {
