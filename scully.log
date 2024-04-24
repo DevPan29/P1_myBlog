@@ -100,3 +100,5 @@ Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
 
 
 
+handleUnknownRoute: "/posts/2024-04-23-posts/index.html", 404:""
+handleUnknownRoute: "/posts/angular-and-scully-new/index.html", 404:""
