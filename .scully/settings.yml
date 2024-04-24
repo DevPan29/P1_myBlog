@@ -1,0 +1,11 @@
+identifier: l5v9d7d28embn3f9
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\wordpsaces\angular\angular-projects-book\my-code\P1_myBlog
+distFolder: dist/my-blog
+outDir: C:\wordpsaces\angular\angular-projects-book\my-code\P1_myBlog\dist\static
+handle404: ''
+allowErrorCollect: true
